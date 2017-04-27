@@ -1,0 +1,6 @@
+selenium==2.50.0
+requests==2.2.1
+sqlalchemy==0.9.8
+Pyinstaller==3.2
+PyMySQL==0.7.3
+xlwt==1.0.0
